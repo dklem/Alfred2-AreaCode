@@ -1,0 +1,319 @@
+201:Jersey City, NJ
+202:Washington, DC
+203:New Haven, CT
+204:Poplar River, MB
+205:Birmingham, AL
+206:Seattle, WA
+207:Portland, ME
+208:Boise, ID
+209:Modesto, CA
+210:San Antonio, TX
+212:New York, NY
+213:Los Angeles, CA
+214:Dallas, TX
+215:Philadelphia, PA
+216:Cleveland, OH
+217:Champaign, IL
+218:Duluth, MN
+219:Gary, IN
+224:Park Ridge, IL
+225:Baton Rouge, LA
+228:Gulfport, MS
+229:Albany, GA
+231:Muskegon, MI
+234:Girard, OH
+239:Fort Myers Beach, FL
+240:Gaithersburg, MD
+248:Royal Oak, MI
+250:Penticton, BC
+251:Mobile, AL
+252:Greenville, NC
+253:Tacoma, WA
+254:Waco, TX
+256:Huntsville, AL
+260:Craigville, IN
+262:Racine, WI
+267:Doylestown, PA
+269:Otsego, MI
+270:Bowling Green, KY
+276:Martinsville, VA
+281:Houston, TX
+289:Milton, ON
+301:Rockville, MD
+302:Wilmington, DE
+303:Denver, CO
+304:Charleston, WV
+305:Miami, FL
+306:Grenfell, SK
+307:Cheyenne, WY
+308:Grand Island, NE
+309:Peoria, IL
+310:Los Angeles, CA
+312:Chicago, IL
+313:Detroit, MI
+314:Saint Louis, MO
+315:Syracuse, NY
+316:Wichita, KS
+317:Indianapolis, IN
+318:Shreveport, LA
+319:Cedar Rapids, IA
+320:Saint Cloud, MN
+321:Melbourne, FL
+323:Los Angeles, CA
+325:Snyder, TX
+330:Akron, OH
+331:Elmhurst, IL
+334:Montgomery, AL
+336:Greensboro, NC
+337:Lafayette, LA
+339:Braintree, MA
+340:Charlotte Amalie, VI
+347:Ridgewood, NY
+351:Danvers, MA
+352:Gainesville, FL
+360:Vancouver, WA
+361:Corpus Christi, TX
+385:S Salt Lake, UT
+386:Daytona Beach, FL
+401:Providence, RI
+402:Omaha, NE
+403:Castor, AB
+404:Atlanta, GA
+405:Oklahoma City, OK
+406:Billings, MT
+407:Orlando, FL
+408:San Jose, CA
+409:Beaumont, TX
+410:Baltimore, MD
+412:Pittsburgh, PA
+413:Springfield, MA
+414:Milwaukee, WI
+415:San Francisco, CA
+416:Toronto, ON
+417:Springfield, MO
+418:Saint Francois, QC
+419:Toledo, OH
+423:Chattanooga, TN
+424:Culver City, CA
+425:Kirkland, WA
+430:Hughes Springs, TX
+432:Garden City, TX
+434:Lynchburg, VA
+435:St George, UT
+440:Cleveland, OH
+442:Oceanside, CA
+443:Pikesville, MD
+450:Saint Lin, QC
+458:Oregon
+469:Plano, TX
+470:Georgia
+475:New Haven, CT
+478:Macon, GA
+479:Bluffton, AR
+480:Mesa, AZ
+484:Exton, PA
+501:Little Rock, AR
+502:Louisville, KY
+503:Portland, OR
+504:New Orleans, LA
+505:Albuquerque, NM
+506:Moncton, NB
+507:Rochester, MN
+508:Worcester, MA
+509:Spokane, WA
+510:Oakland, CA
+512:Austin, TX
+513:Cincinnati, OH
+514:Montreal, QC
+515:Des Moines, IA
+516:Lynbrook, NY
+517:Lansing, MI
+518:Albany, NY
+519:Tara, ON
+520:Tucson, AZ
+530:Chico, CA
+539:Tulsa, OK
+540:Roanoke, VA
+541:Eugene, OR
+551:Jersey City, NJ
+559:Fresno, CA
+561:West Palm Beach, FL
+562:Long Beach, CA
+563:Davenport, IA
+567:Bellevue, OH
+570:Scranton, PA
+571:Herndon, VA
+573:Columbia, MO
+574:Burket, IN
+575:Las Cruces, NM
+580:Lawton, OK
+585:Rochester, NY
+586:Roseville, MI
+601:Jackson, MS
+602:Phoenix, AZ
+603:Manchester, NH
+604:Bowen Island, BC
+605:Sioux Falls, SD
+606:London, KY
+607:Binghamton, NY
+608:Madison, WI
+609:Atlantic City, NJ
+610:Reading, PA
+612:Minneapolis, MN
+613:Mcdonalds Corners, ON
+614:Columbus, OH
+615:Nashville, TN
+616:Grand Rapids, MI
+617:Boston, MA
+618:Belleville, IL
+619:San Diego, CA
+620:Hutchinson, KS
+623:Phoenix, AZ
+626:Alhambra, CA
+630:Naperville, IL
+631:Huntington, NY
+636:Harvester, MO
+641:Mason City, IA
+646:New York, NY
+647:Toronto, ON
+650:San Mateo, CA
+651:Saint Paul, MN
+657:Garden Grove, CA
+660:Sedalia, MO
+661:Bakersfield, CA
+662:Tupelo, MS
+671:Santa Rita, GU
+678:Atlanta, GA
+681:Morgantown, WV
+682:Roanoke, TX
+684:Pago Pago, AS
+701:Fargo, ND
+702:Las Vegas, NV
+703:Alexandria, VA
+704:Charlotte, NC
+705:Omemee, ON
+706:Augusta, GA
+707:Santa Rosa, CA
+708:Oak Park, IL
+709:Lanse Loup, NL
+712:Sioux City, IA
+713:Houston, TX
+714:Santa Ana, CA
+715:Eau Claire, WI
+716:Buffalo, NY
+717:Lancaster, PA
+718:Brooklyn, NY
+719:Colorado Springs, CO
+720:Denver, CO
+724:Greensburg, PA
+727:Saint Petersburg, FL
+731:Jackson, TN
+732:Toms River, NJ
+734:Ann Arbor, MI
+740:Zanesville, OH
+747:Agoura, CA
+754:Fort Lauderdale, FL
+757:Virginia Beach, VA
+760:Vista, CA
+762:Clarkesville, GA
+763:Minneapolis, MN
+765:Muncie, IN
+769:Philadelphia, MS
+770:Atlanta, GA
+772:Port St Lucie, FL
+773:Chicago, IL
+774:Seekonk, MA
+775:Reno, NV
+778:Newton, BC
+779:Mt Morris, IL
+780:Wainwright, AB
+781:Lynn, MA
+785:Topeka, KS
+786:Miami, FL
+787:Anasco, PR
+801:Ogden, UT
+802:Burlington, VT
+803:Columbia, SC
+804:Richmond, VA
+805:Santa Barbara, CA
+806:Lubbock, TX
+807:Sioux Narrows, ON
+808:Honolulu, HI
+810:Flint, MI
+812:Evansville, IN
+813:Tampa, FL
+814:Erie, PA
+815:Rockford, IL
+816:Kansas City, MO
+817:Fort Worth, TX
+818:Van Nuys, CA
+819:Bishopton, QC
+828:Asheville, NC
+830:New Braunfels, TX
+831:Santa Cruz, CA
+832:Houston, TX
+843:Charleston, SC
+845:Spring Valley, NY
+847:Arlington Hts, IL
+848:South Bound Brook, NJ
+850:Tallahassee, FL
+856:Moorestown, NJ
+857:Quincy, MA
+858:San Diego, CA
+859:Lexington, KY
+860:Hartford, CT
+862:Morristown, NJ
+863:Lakeland, FL
+864:Greenville, SC
+865:Knoxville, TN
+867:Wrigley, NT
+867:Wrigley, NT
+867:Wrigley, NT
+870:Jonesboro, AR
+872:Chicago, IL
+878:Pennsylvania
+901:Memphis, TN
+902:Elmsdale, NS
+902:Elmsdale, NS
+903:Tyler, TX
+904:Jacksonville, FL
+905:Richmond Hill, ON
+906:Marquette, MI
+907:Anchorage, AK
+908:Plainfield, NJ
+909:San Bernardino, CA
+910:Fayetteville, NC
+912:Savannah, GA
+913:Kansas City, KS
+914:Yonkers, NY
+915:El Paso, TX
+916:Sacramento, CA
+917:New York, NY
+918:Tulsa, OK
+919:Raleigh, NC
+920:Green Bay, WI
+925:Walnut Creek, CA
+928:Yuma, AZ
+929:Flushing, NY
+931:Clarksville, TN
+936:Conroe, TX
+937:Dayton, OH
+938:Red Bay, AL
+939:Maunabo, PR
+940:Wichita Falls, TX
+941:Sarasota, FL
+947:Ortonville, MI
+949:El Toro, CA
+951:Woodcrest, CA
+952:Minneapolis, MN
+954:Fort Lauderdale, FL
+956:Laredo, TX
+970:Ft Collins, CO
+971:Portland, OR
+972:Dallas, TX
+973:Newark, NJ
+978:Lowell, MA
+979:Bryan, TX
+980:Salisbury, NC
+985:Houma, LA
+989:Saginaw, MI
